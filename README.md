@@ -1,1 +1,1 @@
-![HTML 5 Badge](./assets/badges/html5.png "HTML5")
+<img src='./assets/badges/html5.png' width='20%' height=' 20%'></img>
