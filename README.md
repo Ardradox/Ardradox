@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Ardradox
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Pixi.JS
+![HTML 5 Badge](/assets/badges/html5.png "HTML5")
